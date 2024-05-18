@@ -20,12 +20,15 @@ NextUI
 
 ### Getting Started
 ## Prerequisites
-Node.js
+Node.js .
 npm (or yarn)
 
 ## Installation
-Clone the repository:
-```bash 
-git clone https://github.com/yourusername/expense-tracker.git
-cd expense-tracker
-```
+
+
+
+## Usage
+To add an expense, fill in the "Expense Title", "Expense Amount", and "Expense Date" fields and click the "Add Expense" button.
+To delete an expense, click the "Delete" button next to the expense you want to remove.
+To calculate the total expenses, click the "Total Expense" button.
+Project Structure
