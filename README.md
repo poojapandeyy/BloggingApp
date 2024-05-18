@@ -20,11 +20,10 @@ Calculate the total of all added expenses.
 
 
 ## Prerequisites
-Node.js 
-npm (or yarn)
+1. Node.js 
+2. npm (or yarn)
 
 ## Usage
-To add an expense, fill in the "Expense Title", "Expense Amount", and "Expense Date" fields and click the "Add Expense" button.
-To delete an expense, click the "Delete" button next to the expense you want to remove.
-To calculate the total expenses, click the "Total Expense" button.
-Project Structure
+1. To add an expense, fill in the "Expense Title", "Expense Amount", and "Expense Date" fields and click the "Add Expense" button.
+2. To delete an expense, click the "Delete" button next to the expense you want to remove.
+3. To calculate the total expenses, click the "Total Expense" button.
