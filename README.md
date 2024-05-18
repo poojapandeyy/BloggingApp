@@ -11,21 +11,17 @@ Delete expenses from the list.
 Calculate the total of all added expenses.
 
 ## Technologies Used
-React
-Next.js
-Formik
-Yup
-Tailwind CSS
-NextUI
+1. React
+2. Next.js
+3. Formik
+4. Yup
+5. Tailwind CSS
+6. NextUI
 
-### Getting Started
+
 ## Prerequisites
-Node.js .
+Node.js 
 npm (or yarn)
-
-## Installation
-
-
 
 ## Usage
 To add an expense, fill in the "Expense Title", "Expense Amount", and "Expense Date" fields and click the "Add Expense" button.
